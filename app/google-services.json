@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662465497131",
+    "firebase_url": "https://projectnfc-e1c9b.firebaseio.com",
+    "project_id": "projectnfc-e1c9b",
+    "storage_bucket": "projectnfc-e1c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662465497131:android:e77927ce79854739",
+        "android_client_info": {
+          "package_name": "mbds.socialcardprojetnfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662465497131-utg3j8f870dsmv9c6v97kh1r477rej37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCic8kD3FqKFNH1l7aROVCLZiedFyTWi_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
